@@ -156,6 +156,23 @@ function myEvery(cb, f_cond)
 	return found;
 }
 
+/*
+Function Name: myReduce
+Purpose: A javascript implementation of the reduce function 
+		 that will take in an array of elements 
+		 and executes a callback function on each of those elements.
+Parameters: 
+	@cb: callback function
+	@iterator: 
+Return Value: 
+	reduced: a value used 
+*/
+
+function myReduce()
+{
+
+}
+
 
 /*
 Function Name: myIncludes
