@@ -11,4 +11,4 @@ Javascript Implementation of the following built in methods:
 	• Push
 	• lastIndexOf
 	• Object.keys()
-  • Object.values()
+	• Object.values()
